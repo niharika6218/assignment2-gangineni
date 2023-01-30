@@ -27,4 +27,12 @@ aishwarya
 
 ***[link to aboutme](AboutMe.md)***
 ***
-### 4 countries recommend someone visit
+## 4 countries recommend someone visit
+
+One of my greatest hobbies is travelling the globe and I love to see new places. I enjoy experiencing new environment and culture. There are many countries to visit around the world and each country has something unique to offer.
+
+| Name of the country | Reason to visit | Days to spend |
+--- | --- | --- |
+| Italy | Good for tourism | 7 days |
+| Spain | Good for tourism | 10 days |
+| France | Good for tourism | 5 days |
