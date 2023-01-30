@@ -44,3 +44,11 @@ One of my greatest hobbies is travelling the globe and I love to see new places.
 > “Ned, I would love to stand here and talk with you—but I’m not going to.”
 >> Phil Connors
 
+---
+# code fencing
+> Mailto Links
+>> https://stackoverflow.com/questions/4782068/can-i-set-subject-content-of-email-using-mailto
+``` css
+<a href="mailto:someone@yoursite.com?subject=Mail from Our Site">Email Us</a>  
+```
+***[Link to above snippet](https://css-tricks.com/snippets/html/mailto-links/)***
