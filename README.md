@@ -36,3 +36,11 @@ One of my greatest hobbies is travelling the globe and I love to see new places.
 | Italy | Good for tourism | 7 days |
 | Spain | Good for tourism | 10 days |
 | France | Good for tourism | 5 days |
+---
+# Pithy Quotes
+> “Gentlemen, you can't fight in here. This is the war room.” 
+>> Dr. Strangelove
+
+> “Ned, I would love to stand here and talk with you—but I’m not going to.”
+>> Phil Connors
+
